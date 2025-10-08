@@ -1,0 +1,32 @@
+# Node/npm
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Composer/PHP
+vendor/
+composer.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build / minified
+css/styles.min.css
+
+# Logs and local data
+logs/
+.env
+
+# Misc
+*.log
+*.tmp
+
+# PowerShell transient
+*.ps1xml
+
+# Ignore gitignore itself? no
